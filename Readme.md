@@ -1,1 +1,1 @@
-About this project
+More About this project
