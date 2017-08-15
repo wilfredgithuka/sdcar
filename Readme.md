@@ -1,6 +1,7 @@
 Wilfred Githuka RC Self Driving Car
 Project Documentation
 
+![Example image](status.JPG)
 # Car Details
 * Wheels: 4
 * Weight: 900g
