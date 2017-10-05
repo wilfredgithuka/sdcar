@@ -1,7 +1,7 @@
 Wilfred Githuka RC Self Driving Car
 Project Documentation
 
-![Example image](http://www.githuka.com/img/sdc/may-status.JPG)
+![mars rover](https://user-images.githubusercontent.com/7964520/31209863-97c3385c-a996-11e7-800f-7707cbe931ad.JPG)
 # Car Details
 * Wheels: 4
 * Weight: 900g
