@@ -1,3 +1,7 @@
+#Wilfred Githuka
+#LED Control Code. This piece of code controls a blinking LED to show my code is running. Just a test.
+#I will merge it with the main  code later
+
 import RPi.GPIO as GPIO
 import time
 
