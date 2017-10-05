@@ -1,7 +1,7 @@
 #Wilfred Githuka
 #Githuka.com
 #Self Driving RC Car Project
-#Basics
+#Back Wheels Locomotion Only
 #Enjoy
 
 import RPi.GPIO as io
@@ -48,17 +48,17 @@ def BackMotorReverse():
         io.output(BackMotorGpioPositive, False)
         io.output(BackMotorGpioNegative, True)
 
-# Setting The PWM to False
+# Setting The PWM to False so that the wheels do not start moving when the code is run, they must wait for keypress
 io.output(BackMotorGpioPositive, False)
 io.output(BackMotorGpioNegative, False)
 
-# Global Variables
+# Global Variables for Front Wheels, not used now
 WheelStatus = "center"
 
 # UI
 print("w or s : Front or Back Movement")
 
-# The infinite loop
+# The infinite loop that waits for key press
 
 while True:
         char = getch()
