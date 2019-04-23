@@ -2,7 +2,7 @@ Wilfred Githuka RC Self Driving Car
 Project Documentation
 
 ![mars rover](https://user-images.githubusercontent.com/7964520/31209863-97c3385c-a996-11e7-800f-7707cbe931ad.JPG)
-
+![image](https://raw.githubusercontent.com/wilfredgithuka/sdcar/master/struct.png)
 ## Project Objectives
 * Learn how to design a working autonomous vehicle
 * Implement a deep neural network that will drive the vehicle
